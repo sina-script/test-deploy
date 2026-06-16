@@ -4,6 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: antiquewhite;
+    positon: relative;
 }
 div{
     width: 50%;
